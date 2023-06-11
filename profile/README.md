@@ -1,8 +1,10 @@
 ## Hi pongpong 👋
 
-🎉<strong>ENJOY PONGPONGTRIP!!</strong>🎉
+
 
 <div align="center">
+  
+🎉<strong>ENJOY PONGPONGTRIP!!</strong>🎉
 
 ![main_page-min](https://github.com/pongpongtrip/.github/assets/73294363/592f188b-24d5-48c3-8f92-c5027b089f83)
 
